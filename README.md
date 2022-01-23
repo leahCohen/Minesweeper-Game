@@ -1,2 +1,2 @@
 # Minesweeper-Game
-a game
+Java Minesweeper game source code
